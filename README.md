@@ -35,7 +35,7 @@ Here is the general directory sctructure:
 	    ├── ft1.txt  
 	    └── ft2.txt  
 
-One can execute the python programs by running executing run.sh.
+One can execute the python programs by executing run.sh.
 
 The code was tested and run on a Unix system using the Anaconda Python distrubution and the below Python modules:
 
